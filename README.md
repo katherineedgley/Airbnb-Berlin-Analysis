@@ -20,7 +20,7 @@ For this project, I was interested in exploring and analyzing current Airbnb dat
 	3.	Can we predict the location rating for a listing, and what neighborhoods have the greatest influence on those ratings?
 
 ## File Descriptions
-The notebook, Airbnb_Berlin.ipynb, contains the final code used to answer these questions, in addition to some extra analysis. Markdown cells will guide readers through the notebook, which generally follows the CRISP-DM process. 
+The notebook, ``Airbnb_Berlin.ipynb``, contains the final code used to answer these questions, in addition to some extra analysis. Markdown cells will guide readers through the notebook, which generally follows the CRISP-DM process. 
 
 ## Results
 The findings from this exploratory analysis as well as prediction can be found in [this Medium post](https://medium.com/@katherineedgley/a-visual-data-driven-look-at-airbnb-hosting-in-berlin-729eccd8bf9d) I wrote to explain the study.
