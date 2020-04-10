@@ -11,7 +11,7 @@ Analysis, Visualization, and Prediction using Berlin Airbnb Data
 
 ## Installation and Data
 Requires Python versions 3.\*. May require installing plotly, stats models, folium, and guppy, if not already installed.
-The data, which was too large to include in the repository, is accessible [here](http://insideairbnb.com/get-the-data.html). To run the notebook, titled ``Airbnb_Berlin.ipynb``, you will need the following files listed under Berlin, Berlin, Germany: ``listings.csv.gz``, ``reviews.csv.gz``, and ``neighborhoods.geojson`` from March 2020. 
+The data is also accessible [here](http://insideairbnb.com/get-the-data.html) under Berlin, Berlin, Germany for the monthof March 2020. To run the notebook, titled ``Airbnb_Berlin.ipynb``, you will need to unzip the following files located in the data folder: ``listings.csv.gz`` and ``reviews.csv.gz``.
 
 ## Project Motivation
 For this project, I was interested in exploring and analyzing current Airbnb data in the city of Berlin. The code addresses the following questions:\
